@@ -192,31 +192,6 @@
         { "nama": "Teluk Gelam", "kode_unik": "D146" },
         { "nama": "Tulung Selapan", "kode_unik": "D147" }
       ]
-    }
-	{
-  "kabupaten": [
-    {
-      "nama": "Kabupaten Ogan Komering Ilir",
-      "kecamatan": [
-        { "nama": "Air Sugihan", "kode_unik": "D130" },
-        { "nama": "Cengal", "kode_unik": "D131" },
-        { "nama": "Jejawi", "kode_unik": "D132" },
-        { "nama": "Kayu Agung", "kode_unik": "D133" },
-        { "nama": "Kota Kayu Agung", "kode_unik": "D134" },
-        { "nama": "Lempuing", "kode_unik": "D135" },
-        { "nama": "Lempuing Jaya", "kode_unik": "D136" },
-        { "nama": "Mesuji", "kode_unik": "D137" },
-        { "nama": "Mesuji Makmur", "kode_unik": "D138" },
-        { "nama": "Mesuji Raya", "kode_unik": "D139" },
-        { "nama": "Pampangan", "kode_unik": "D140" },
-        { "nama": "Pedamaran", "kode_unik": "D141" },
-        { "nama": "Pedamaran Timur", "kode_unik": "D142" },
-        { "nama": "Pematang Panggang", "kode_unik": "D143" },
-        { "nama": "Sirah Pulau Padang", "kode_unik": "D144" },
-        { "nama": "Sungai Menang", "kode_unik": "D145" },
-        { "nama": "Teluk Gelam", "kode_unik": "D146" },
-        { "nama": "Tulung Selapan", "kode_unik": "D147" }
-      ]
     },
     {
       "nama": "Kabupaten Ogan Komering Ulu",
