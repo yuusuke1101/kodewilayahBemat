@@ -1,5 +1,5 @@
 {
-  "provinsi": "Lampung",
+  "provinsi": "Jawa Barat",
   "kabupaten": [
     {
       "nama": "Kabupaten Bandung",
@@ -240,7 +240,89 @@
         { "nama": "Cirebon Dua", "kode_unik": "N204" },
         { "nama": "Cirebon Tiga", "kode_unik": "N205" }
       ]
-    }
+    },
+	{
+	  "nama": "Kabupaten Garut",
+	  "kecamatan": [
+		{ "nama": "Banyuresmi", "kode_unik": "N206" },
+		{ "nama": "Bayongbong", "kode_unik": "N207" },
+		{ "nama": "Cibalong", "kode_unik": "N208" },
+		{ "nama": "Cihurip", "kode_unik": "N209" },
+		{ "nama": "Cisurupan", "kode_unik": "N210" },
+		{ "nama": "Garut Kota", "kode_unik": "N211" },
+		{ "nama": "Kadungora", "kode_unik": "N212" },
+		{ "nama": "Karangpawitan", "kode_unik": "N213" },
+		{ "nama": "Kersamanah", "kode_unik": "N214" },
+		{ "nama": "Kotagede", "kode_unik": "N215" },
+		{ "nama": "Leles", "kode_unik": "N216" },
+		{ "nama": "Limbangan", "kode_unik": "N217" },
+		{ "nama": "Malangbong", "kode_unik": "N218" },
+		{ "nama": "Manonjaya", "kode_unik": "N219" },
+		{ "nama": "Mekarmukti", "kode_unik": "N220" },
+		{ "nama": "Pakenjeng", "kode_unik": "N221" },
+		{ "nama": "Pangatikan", "kode_unik": "N222" },
+		{ "nama": "Pasirwangi", "kode_unik": "N223" },
+		{ "nama": "Pameungpeuk", "kode_unik": "N224" },
+		{ "nama": "Panyingkiran", "kode_unik": "N225" },
+		{ "nama": "Pangalengan", "kode_unik": "N226" },
+		{ "nama": "Selaawi", "kode_unik": "N227" },
+		{ "nama": "Selaawi", "kode_unik": "N228" },
+		{ "nama": "Sukawening", "kode_unik": "N229" },
+		{ "nama": "Sukaresmi", "kode_unik": "N230" },
+		{ "nama": "Sucinaru", "kode_unik": "N231" },
+		{ "nama": "Tarogong Kaler", "kode_unik": "N232" },
+		{ "nama": "Tarogong Kidul", "kode_unik": "N233" },
+		{ "nama": "Wanaraja", "kode_unik": "N234" },
+		{ "nama": "Wanareja", "kode_unik": "N235" },
+		{ "nama": "Karamat", "kode_unik": "N236" },
+		{ "nama": "Cilawu", "kode_unik": "N237" },
+		{ "nama": "Cisewu", "kode_unik": "N238" },
+		{ "nama": "Karangpawitan", "kode_unik": "N239" },
+		{ "nama": "Karangtalun", "kode_unik": "N240" },
+		{ "nama": "Garut", "kode_unik": "N241" },
+		{ "nama": "Ciledug", "kode_unik": "N242" },
+		{ "nama": "Wanaraja", "kode_unik": "N243" },
+		{ "nama": "Pameungpeuk", "kode_unik": "N244" },
+		{ "nama": "Selaawi", "kode_unik": "N245" },
+		{ "nama": "Cikarang", "kode_unik": "N246" },
+		{ "nama": "Garut", "kode_unik": "N247" }
+	  ]
+	},
+	{
+	  "nama": "Kabupaten Indramayu",
+	  "kecamatan": [
+		{ "nama": "Balongan", "kode_unik": "N248" },
+		{ "nama": "Bongas", "kode_unik": "N249" },
+		{ "nama": "Cikedung", "kode_unik": "N250" },
+		{ "nama": "Haurgeulis", "kode_unik": "N251" },
+		{ "nama": "Indramayu", "kode_unik": "N252" },
+		{ "nama": "Jatibarang", "kode_unik": "N253" },
+		{ "nama": "Kertasemaya", "kode_unik": "N254" },
+		{ "nama": "Losarang", "kode_unik": "N255" },
+		{ "nama": "Lohbener", "kode_unik": "N256" },
+		{ "nama": "Majalengka", "kode_unik": "N257" },
+		{ "nama": "Patrol", "kode_unik": "N258" },
+		{ "nama": "Sukra", "kode_unik": "N259" },
+		{ "nama": "Sindang", "kode_unik": "N260" },
+		{ "nama": "Sumber Jaya", "kode_unik": "N261" },
+		{ "nama": "Terisi", "kode_unik": "N262" },
+		{ "nama": "Bangkaloa", "kode_unik": "N263" },
+		{ "nama": "Jatinangor", "kode_unik": "N264" },
+		{ "nama": "Cirebon", "kode_unik": "N265" },
+		{ "nama": "Cirebon Jaya", "kode_unik": "N266" },
+		{ "nama": "Sumber", "kode_unik": "N267" },
+		{ "nama": "Cikawung", "kode_unik": "N268" },
+		{ "nama": "Cidahu", "kode_unik": "N269" },
+		{ "nama": "Ciledug", "kode_unik": "N270" },
+		{ "nama": "Gantar", "kode_unik": "N271" },
+		{ "nama": "Indramayu", "kode_unik": "N272" },
+		{ "nama": "Haurgeulis", "kode_unik": "N273" },
+		{ "nama": "Cikedung", "kode_unik": "N274" },
+		{ "nama": "Jatibarang", "kode_unik": "N275" },
+		{ "nama": "Jatinangor", "kode_unik": "N276" },
+		{ "nama": "Pamanukan", "kode_unik": "N277" },
+		{ "nama": "Terisi", "kode_unik": "N278" }
+	  ]
+     }
   ]
 }
-
