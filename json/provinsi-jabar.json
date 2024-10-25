@@ -652,7 +652,139 @@
 		{ "nama": "Singaparna", "kode_unik": "N561" },
 		{ "nama": "Tarogong", "kode_unik": "N562" }
 	  ]
+	},
+	{
+	  "nama": "Kota Bandung",
+	  "kecamatan": [
+		{ "nama": "Andir", "kode_unik": "N563" },
+		{ "nama": "Antapani", "kode_unik": "N564" },
+		{ "nama": "Astana Anyar", "kode_unik": "N565" },
+		{ "nama": "Babakan Ciparay", "kode_unik": "N566" },
+		{ "nama": "Bandung Kidul", "kode_unik": "N567" },
+		{ "nama": "Bandung Wetan", "kode_unik": "N568" },
+		{ "nama": "Batununggal", "kode_unik": "N569" },
+		{ "nama": "Bojongloa Kaler", "kode_unik": "N570" },
+		{ "nama": "Bojongloa Kidul", "kode_unik": "N571" },
+		{ "nama": "Cicendo", "kode_unik": "N572" },
+		{ "nama": "Cidadap", "kode_unik": "N573" },
+		{ "nama": "Cikadut", "kode_unik": "N574" },
+		{ "nama": "Cileunyi", "kode_unik": "N575" },
+		{ "nama": "Cimahi", "kode_unik": "N576" },
+		{ "nama": "Coblong", "kode_unik": "N577" },
+		{ "nama": "Kiaracondong", "kode_unik": "N578" },
+		{ "nama": "Lengkong", "kode_unik": "N579" },
+		{ "nama": "Margahayu", "kode_unik": "N580" },
+		{ "nama": "Panyileukan", "kode_unik": "N581" },
+		{ "nama": "Rancasari", "kode_unik": "N582" },
+		{ "nama": "Regol", "kode_unik": "N583" },
+		{ "nama": "Sukajadi", "kode_unik": "N584" },
+		{ "nama": "Sukarno-Hatta", "kode_unik": "N585" },
+		{ "nama": "Ujungberung", "kode_unik": "N586" },
+		{ "nama": "Cibeunying Kaler", "kode_unik": "N587" },
+		{ "nama": "Cibeunying Kidul", "kode_unik": "N588" },
+		{ "nama": "Cihampelas", "kode_unik": "N589" },
+		{ "nama": "Cikini", "kode_unik": "N590" },
+		{ "nama": "Citarum", "kode_unik": "N591" },
+		{ "nama": "Gedebage", "kode_unik": "N592" }
+	  ]
+	},
+	{
+	  "nama": "Kota Banjar",
+	  "kecamatan": [
+		{ "nama": "Banjar", "kode_unik": "N593" },
+		{ "nama": "Pataruman", "kode_unik": "N594" },
+		{ "nama": "Langensari", "kode_unik": "N595" },
+		{ "nama": "Tamansari", "kode_unik": "N596" }
+	  ]
+	},
+	{
+	  "nama": "Kota Bekasi",
+	  "kecamatan": [
+		{ "nama": "Bekasi Barat", "kode_unik": "N597" },
+		{ "nama": "Bekasi Timur", "kode_unik": "N598" },
+		{ "nama": "Medan Satria", "kode_unik": "N599" },
+		{ "nama": "Jatiasih", "kode_unik": "N600" },
+		{ "nama": "Pondok Gede", "kode_unik": "N601" },
+		{ "nama": "Pondok Melati", "kode_unik": "N602" },
+		{ "nama": "Mustika Jaya", "kode_unik": "N603" },
+		{ "nama": "Rawalumbu", "kode_unik": "N604" },
+		{ "nama": "Babelan", "kode_unik": "N605" },
+		{ "nama": "Cikarang Barat", "kode_unik": "N606" },
+		{ "nama": "Cikarang Timur", "kode_unik": "N607" },
+		{ "nama": "Cikarang Selatan", "kode_unik": "N608" }
+	  ]
+	},
+	{
+	  "nama": "Kota Bogor",
+	  "kecamatan": [
+		{ "nama": "Bogor Selatan", "kode_unik": "N609" },
+		{ "nama": "Bogor Timur", "kode_unik": "N610" },
+		{ "nama": "Bogor Utara", "kode_unik": "N611" },
+		{ "nama": "Bogor Tengah", "kode_unik": "N612" },
+		{ "nama": "Tanah Sareal", "kode_unik": "N613" },
+		{ "nama": "Kebun Jeruk", "kode_unik": "N614" }
+	  ]
+	},
+	{
+	  "nama": "Kota Cimahi",
+	  "kecamatan": [
+		{ "nama": "Cimahi Utara", "kode_unik": "N615" },
+		{ "nama": "Cimahi Selatan", "kode_unik": "N616" },
+		{ "nama": "Cihampelas", "kode_unik": "N617" }
+	  ]
+	},
+	{
+	  "nama": "Kota Cirebon",
+	  "kecamatan": [
+		{ "nama": "Cirebon Utara", "kode_unik": "N618" },
+		{ "nama": "Cirebon Selatan", "kode_unik": "N619" },
+		{ "nama": "Cirebon Barat", "kode_unik": "N620" },
+		{ "nama": "Cirebon Timur", "kode_unik": "N621" },
+		{ "nama": "Kesambi", "kode_unik": "N622" }
+	  ]
+	},
+	{
+	  "nama": "Kota Depok",
+	  "kecamatan": [
+		{ "nama": "Beji", "kode_unik": "N623" },
+		{ "nama": "Cimanggis", "kode_unik": "N624" },
+		{ "nama": "Cinere", "kode_unik": "N625" },
+		{ "nama": "Cipayung", "kode_unik": "N626" },
+		{ "nama": "Limo", "kode_unik": "N627" },
+		{ "nama": "Pancoran Mas", "kode_unik": "N628" },
+		{ "nama": "Pondok Aren", "kode_unik": "N629" },
+		{ "nama": "Sawangan", "kode_unik": "N630" },
+		{ "nama": "Sukmajaya", "kode_unik": "N631" },
+		{ "nama": "Tapos", "kode_unik": "N632" },
+		{ "nama": "Depok", "kode_unik": "N633" }
+	  ]
+	},
+	{
+	  "nama": "Kota Sukabumi",
+	  "kecamatan": [
+		{ "nama": "Cikole", "kode_unik": "N634" },
+		{ "nama": "Citamiang", "kode_unik": "N635" },
+		{ "nama": "Sukabumi", "kode_unik": "N636" },
+		{ "nama": "Baros", "kode_unik": "N637" },
+		{ "nama": "Cisaat", "kode_unik": "N638" },
+		{ "nama": "Lembursitu", "kode_unik": "N639" },
+		{ "nama": "Warudoyong", "kode_unik": "N640" }
+	  ]
+	},
+	{
+	  "nama": "Kota Tasikmalaya",
+	  "kecamatan": [
+		{ "nama": "Tasikmalaya", "kode_unik": "N641" },
+		{ "nama": "Cihideung", "kode_unik": "N642" },
+		{ "nama": "Cipedes", "kode_unik": "N643" },
+		{ "nama": "Mangkubumi", "kode_unik": "N644" },
+		{ "nama": "Purbaratu", "kode_unik": "N645" },
+		{ "nama": "Tawang", "kode_unik": "N646" },
+		{ "nama": "Kawalu", "kode_unik": "N647" },
+		{ "nama": "Sukarame", "kode_unik": "N648" },
+		{ "nama": "Cigalontang", "kode_unik": "N649" },
+		{ "nama": "Jatiwaras", "kode_unik": "N650" }
+	  ]
 	}
   ]
 }
-
