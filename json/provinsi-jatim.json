@@ -750,22 +750,6 @@
       ]
     },
     {
-      "nama": "Kabupaten Pringsewu",
-      "kecamatan": [
-        { "nama": "Pagelaran", "kode_unik": "01" },
-        { "nama": "Adiluwih", "kode_unik": "02" },
-        { "nama": "Ambarawa", "kode_unik": "03" },
-        { "nama": "Banyumas", "kode_unik": "04" },
-        { "nama": "Gading Rejo", "kode_unik": "05" },
-        { "nama": "Pringsewu", "kode_unik": "06" },
-        { "nama": "Sukoharjo", "kode_unik": "07" },
-        { "nama": "Pagelaran Utara", "kode_unik": "08" },
-        { "nama": "Pardasuka", "kode_unik": "09" }
-      ]
-    }
-  ],
-  "kota": [
-    {
       "nama": "Kota Batu",
       "kecamatan": [
         { "nama": "Batu", "kode_unik": "O607" },
