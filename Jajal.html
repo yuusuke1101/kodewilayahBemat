@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dropdown Wilayah Indonesia</title>
+  <title>Informasi Kode Wilayah Bemat Indonesia</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
   <!-- Link Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
@@ -95,13 +95,50 @@
       <!-- Menambahkan logo di bagian atas -->
       <img src="be mart logo.png" alt="Logo Perusahaan" class="logo">
 
-      <h2 class="title">Kode Wilayah Indonesia</h2>
+      <h2 class="title">Kode Wilayah Bemat-Indonesia</h2>
 
       <!-- Dropdown untuk Provinsi -->
       <div class="dropdown-area">
         <select id="provinsiDropdown" class="form-select" onchange="loadKabupaten(); clearOutput();">
           <option value="">Pilih Provinsi</option>
+          <option value="aceh">Aceh</option>
+          <option value="bali">Bali</option>
+          <option value="banten">Banten</option>
+          <option value="bengkulu">Bengkulu</option>
+          <option value="yogyakarta">Daerah Istimewa Yogyakarta</option>
+          <option value="jakarta">DKI Jakarta</option>
+          <option value="gorontalo">Gorontalo</option>
+          <option value="jambi">Jambi</option>
+          <option value="jabar">Jawa Barat</option>
+          <option value="jawa-tengah">Jawa Tengah</option>
+          <option value="jatim">Jawa Timur</option>
+          <option value="kalbar">Kalimantan Barat</option>
+          <option value="kalsel">Kalimantan Selatan</option>
+          <option value="kalteng">Kalimantan Tengah</option>
+          <option value="kaltim">Kalimantan Timur</option>
+          <option value="kalut">Kalimantan Utara</option>
+          <option value="babel">Kepulauan Bangka Belitung</option>
+          <option value="kepri">Kepulauan Riau</option>
           <option value="lampung">Lampung</option>
+          <option value="maluku">Maluku</option>
+          <option value="malut">Maluku Utara</option>
+          <option value="ntb">Nusa Tenggara Barat</option>
+          <option value="ntt">Nusa Tenggara Timur</option>
+          <option value="papua">Papua</option>
+          <option value="papuabarat">Papua Barat</option>
+          <option value="papuabaratdaya">Papua Barat Daya</option>
+          <option value="papuapegunungan">Papua Pegunungan</option>
+          <option value="papuaselatan">Papua Selatan</option>
+          <option value="papuatengah">Papua Tengah</option>
+          <option value="riau">Riau</option>
+          <option value="sulbar">Sulawesi Barat</option>
+          <option value="sulsel">Sulawesi Selatan</option>
+          <option value="sulteng">Sulawesi Tengah</option>
+          <option value="sultra">Sulawesi Tenggara</option>
+          <option value="sulut">Sulawesi Utara</option>
+          <option value="sumbar">Sumatera Barat</option>
+          <option value="sumsel">Sumatera Selatan</option>
+          <option value="sumatera-utara">Sumatera Utara</option>
         </select>
       </div>
 
@@ -186,7 +223,7 @@
       }
 
       document.getElementById('kodeWilayahOutput').textContent = kodeUnik;
-      document.getElementById('percontohanOutput').textContent = `${kodeUnik}RAHMAD`;
+      document.getElementById('percontohanOutput').textContent = `${kodeUnik}USERNAME`;
     }
 
     function clearOutput() {
