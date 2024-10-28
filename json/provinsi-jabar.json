@@ -40,7 +40,7 @@
     {
       "nama": "Kabupaten Bandung Barat",
       "kecamatan": [
-        { "nama": "Batujajar", "kode_unik": "N29" },7
+        { "nama": "Batujajar", "kode_unik": "N29" },
         { "nama": "Cipatat", "kode_unik": "N32" },
         { "nama": "Cipendeuy", "kode_unik": "N33" },
         { "nama": "Cikalongwetan", "kode_unik": "N34" },
