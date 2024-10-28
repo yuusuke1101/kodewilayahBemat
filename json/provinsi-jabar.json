@@ -241,9 +241,7 @@
         { "nama": "Tengah Tani", "kode_unik": "N197" },
         { "nama": "Waled", "kode_unik": "N198" },
         { "nama": "Weru", "kode_unik": "N199" },
-        { "nama": "Kramatmulya", "kode_unik": "N200" },
-        { "nama": "Dukupuntang", "kode_unik": "N201" },
-        { "nama": "Plumbon", "kode_unik": "N202" }
+        { "nama": "Kramatmulya", "kode_unik": "N200" }
       ]
     },
     {
@@ -290,8 +288,7 @@
         { "nama": "Tarogong Kidul", "kode_unik": "N240" },
         { "nama": "Wanaraja", "kode_unik": "N241" },
         { "nama": "Haurpanggung", "kode_unik": "N242" },
-        { "nama": "Kadungora", "kode_unik": "N243" },
-        { "nama": "Karangpawitan", "kode_unik": "N244" }
+        { "nama": "Kadungora", "kode_unik": "N243" }
       ]
     },
     {
