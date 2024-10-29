@@ -185,16 +185,19 @@
         { "nama": "Demak", "kode_unik": "E126" },
 	{ "nama": "Gajah", "kode_unik": "E498" },
         { "nama": "Guntur", "kode_unik": "E127" },
-        { "nama": "Karangawun", "kode_unik": "E128" },
+	{ "nama": "Karanganyar", "kode_unik": "E136" },
+        { "nama": "Karangawen", "kode_unik": "E128" },
+	{ "nama": "GajaKarang Tengah", "kode_unik": "E450" },
         { "nama": "Kebonagung", "kode_unik": "E129" },
+	{ "nama": "Mranggenn", "kode_unik": "E451" },
         { "nama": "Mijen", "kode_unik": "E130" },
         { "nama": "Sayung", "kode_unik": "E131" },
         { "nama": "Wonosalam", "kode_unik": "E132" },
         { "nama": "Dempet", "kode_unik": "E133" },
         { "nama": "Bonang", "kode_unik": "E134" },
         { "nama": "Dempet", "kode_unik": "E135" },
-        { "nama": "Karanganyar", "kode_unik": "E136" },
-        { "nama": "Sukorejo", "kode_unik": "E137" }
+        { "nama": "Sukorejo", "kode_unik": "E137" },
+	{ "nama": "Wedung", "kode_unik": "E452" }
       ]
     },
     {
@@ -202,6 +205,9 @@
       "kecamatan": [
         { "nama": "Brati", "kode_unik": "E138" },
         { "nama": "Gabus", "kode_unik": "E139" },
+	{ "nama": "Godong", "kode_unik": "E453" },
+	{ "nama": "Geyer", "kode_unik": "E154" },
+	{ "nama": "Grobogan", "kode_unik": "E454" },
         { "nama": "Gubug", "kode_unik": "E140" },
         { "nama": "Karangrayung", "kode_unik": "E141" },
         { "nama": "Kedungjati", "kode_unik": "E142" },
@@ -215,8 +221,7 @@
         { "nama": "Tawangharjo", "kode_unik": "E150" },
         { "nama": "Tegowanu", "kode_unik": "E151" },
         { "nama": "Toroh", "kode_unik": "E152" },
-        { "nama": "Wirosari", "kode_unik": "E153" },
-        { "nama": "Geyer", "kode_unik": "E154" }
+        { "nama": "Wirosari", "kode_unik": "E153" }
       ]
     },
     {
@@ -232,7 +237,7 @@
         { "nama": "Keling", "kode_unik": "E162" },
         { "nama": "Kembang", "kode_unik": "E163" },
         { "nama": "Mayong", "kode_unik": "E164" },
-        { "nama": "Mlongo", "kode_unik": "E165" },
+        { "nama": "Mlonggo", "kode_unik": "E165" },
         { "nama": "Nalumsari", "kode_unik": "E166" },
         { "nama": "Pakis Aji", "kode_unik": "E167" },
         { "nama": "Pecangaan", "kode_unik": "E168" },
@@ -245,13 +250,16 @@
       "kecamatan": [
         { "nama": "Colomadu", "kode_unik": "E171" },
         { "nama": "Gondangrejo", "kode_unik": "E172" },
-        { "nama": "Jaten", "kode_unik": "E173" },
+	{ "nama": "Jaten", "kode_unik": "E173" },
+	{ "nama": "Jatipuro", "kode_unik": "E455" },
+	{ "nama": "Jatiyoso", "kode_unik": "E456" },
         { "nama": "Jenawi", "kode_unik": "E174" },
         { "nama": "Jumantono", "kode_unik": "E175" },
         { "nama": "Jumapolo", "kode_unik": "E176" },
         { "nama": "Karanganyar", "kode_unik": "E177" },
         { "nama": "Karangpandan", "kode_unik": "E178" },
         { "nama": "Kebakkramat", "kode_unik": "E179" },
+	{ "nama": "Kerjo", "kode_unik": "E457" },
         { "nama": "Matesih", "kode_unik": "E180" },
         { "nama": "Mojogedang", "kode_unik": "E181" },
         { "nama": "Ngargoyoso", "kode_unik": "E182" },
@@ -325,6 +333,7 @@
 		{ "nama": "Gantiwarno", "kode_unik": "E234" },
 		{ "nama": "Jatinom", "kode_unik": "E235" },
 		{ "nama": "Jogonalan", "kode_unik": "E236" },
+		{ "nama": "Juwiring", "kode_unik": "E458" },
 		{ "nama": "Kalikotes", "kode_unik": "E237" },
 		{ "nama": "Karanganom", "kode_unik": "E238" },
 		{ "nama": "Karangdowo", "kode_unik": "E239" },
@@ -352,6 +361,7 @@
 		{ "nama": "Dawe", "kode_unik": "E256" },
 		{ "nama": "Gebog", "kode_unik": "E257" },
 		{ "nama": "Jati", "kode_unik": "E258" },
+		{ "nama": "Jekulo", "kode_unik": "E459" },
 		{ "nama": "Kaliwungu", "kode_unik": "E259" },
 		{ "nama": "Kota Kudus", "kode_unik": "E260" },
 		{ "nama": "Mejobo", "kode_unik": "E261" },
@@ -362,16 +372,19 @@
 	  "nama": "Kabupaten Magelang",
 	  "kecamatan": [
 		{ "nama": "Bandongan", "kode_unik": "E263" },
+		{ "nama": "Borobudur", "kode_unik": "E460" },
 		{ "nama": "Candimulyo", "kode_unik": "E264" },
 		{ "nama": "Dukun", "kode_unik": "E265" },
 		{ "nama": "Grabag", "kode_unik": "E266" },
 		{ "nama": "Kajoran", "kode_unik": "E267" },
 		{ "nama": "Kaliangkrik", "kode_unik": "E268" },
 		{ "nama": "Mertoyudan", "kode_unik": "E269" },
+		{ "nama": "Mungkid", "kode_unik": "E461" },
 		{ "nama": "Muntilan", "kode_unik": "E270" },
 		{ "nama": "Ngablak", "kode_unik": "E271" },
 		{ "nama": "Ngluwar", "kode_unik": "E272" },
 		{ "nama": "Pakis", "kode_unik": "E273" },
+		{ "nama": "Salam", "kode_unik": "E462" },
 		{ "nama": "Salaman", "kode_unik": "E274" },
 		{ "nama": "Sawangan", "kode_unik": "E275" },
 		{ "nama": "Secang", "kode_unik": "E276" },
@@ -385,6 +398,7 @@
 	  "nama": "Kabupaten Pati",
 	  "kecamatan": [
 		{ "nama": "Batangan", "kode_unik": "E281" },
+		{ "nama": "Buaran", "kode_unik": "E463" },
 		{ "nama": "Cluwak", "kode_unik": "E282" },
 		{ "nama": "Dukuhseti", "kode_unik": "E283" },
 		{ "nama": "Gabus", "kode_unik": "E284" },
@@ -404,7 +418,7 @@
 		{ "nama": "Tlogowungu", "kode_unik": "E298" },
 		{ "nama": "Trangkil", "kode_unik": "E299" },
 		{ "nama": "Wedarijaksa", "kode_unik": "E300" },
-		{ "nama": "Winong", "kode_unik": "E301" }
+		{ "nama": "Winong", "kode_unik": "E301" },
 	  ]
 	},
 	{
@@ -413,15 +427,21 @@
 		{ "nama": "Bojong", "kode_unik": "E302" },
 		{ "nama": "Doro", "kode_unik": "E303" },
 		{ "nama": "Kajen", "kode_unik": "E304" },
+		{ "nama": "Karaganyar", "kode_unik": "E464" },
 		{ "nama": "Karangdadap", "kode_unik": "E305" },
 		{ "nama": "Kedungwuni", "kode_unik": "E306" },
+		{ "nama": "Kesesi", "kode_unik": "E465" },
+		{ "nama": "Lebakbarang", "kode_unik": "E466" },
 		{ "nama": "Limpung", "kode_unik": "E307" },
 		{ "nama": "Petungkriyono", "kode_unik": "E308" },
 		{ "nama": "Pekalongan Selatan", "kode_unik": "E309" },
 		{ "nama": "Pekalongan Utara", "kode_unik": "E310" },
 		{ "nama": "Paninggaran", "kode_unik": "E311" },
 		{ "nama": "Siwalan", "kode_unik": "E312" },
+		{ "nama": "Sragi", "kode_unik": "E467" },
+		{ "nama": "Talun", "kode_unik": "E470" },
 		{ "nama": "Tirto", "kode_unik": "E313" },
+		{ "nama": "Wiradesa", "kode_unik": "E471" },
 		{ "nama": "Wonopringgo", "kode_unik": "E314" },
 		{ "nama": "Wonokerto", "kode_unik": "E315" }
 	  ]
@@ -429,22 +449,28 @@
 	{
 	  "nama": "Kabupaten Pemalang",
 	  "kecamatan": [
+		{ "nama": "Ampelgading", "kode_unik": "E472" },
 		{ "nama": "Bantarbolang", "kode_unik": "E316" },
 		{ "nama": "Belik", "kode_unik": "E317" },
+		{ "nama": "Bodeh", "kode_unik": "E473" },
 		{ "nama": "Comal", "kode_unik": "E318" },
 		{ "nama": "Dagangan", "kode_unik": "E319" },
+		{ "nama": "Moga", "kode_unik": "E474" },
 		{ "nama": "Pemalang", "kode_unik": "E320" },
 		{ "nama": "Petarukan", "kode_unik": "E321" },
 		{ "nama": "Pulosari", "kode_unik": "E322" },
 		{ "nama": "Rakit", "kode_unik": "E323" },
+		{ "nama": "Randu dongkal", "kode_unik": "E475" },
 		{ "nama": "Taman", "kode_unik": "E324" },
 		{ "nama": "Ulujami", "kode_unik": "E325" },
+		{ "nama": "Warungpring", "kode_unik": "E476" },
 		{ "nama": "Watukumpul", "kode_unik": "E326" }
 	  ]
 	},
 	{
 	  "nama": "Kabupaten Purbalingga",
 	  "kecamatan": [
+		{ "nama": "Bojongsari", "kode_unik": "E477" },
 		{ "nama": "Bukateja", "kode_unik": "E327" },
 		{ "nama": "Karangmoncol", "kode_unik": "E328" },
 		{ "nama": "Kemangkon", "kode_unik": "E329" },
@@ -452,10 +478,16 @@
 		{ "nama": "Rembang", "kode_unik": "E331" },
 		{ "nama": "Bobotsari", "kode_unik": "E332" },
 		{ "nama": "Kaligondang", "kode_unik": "E333" },
+		{ "nama": "Kalimana", "kode_unik": "E478" },
+		{ "nama": "Karanganyar", "kode_unik": "E479" },
+		{ "nama": "Karangjambu", "kode_unik": "E480" },
 		{ "nama": "Karangreja", "kode_unik": "E334" },
+		{ "nama": "Kejobong", "kode_unik": "E481" },
+		{ "nama": "Kertanegara", "kode_unik": "E482" },
 		{ "nama": "Kutasari", "kode_unik": "E335" },
 		{ "nama": "Mrebet", "kode_unik": "E336" },
 		{ "nama": "Padamara", "kode_unik": "E337" },
+		{ "nama": "Pengadegan", "kode_unik": "E483" },
 		{ "nama": "Rembang", "kode_unik": "E338" },
 		{ "nama": "Sumbang", "kode_unik": "E339" }
 	  ]
@@ -463,6 +495,7 @@
 	{
 	  "nama": "Kabupaten Purworejo",
 	  "kecamatan": [
+		{ "nama": "Bagelen", "kode_unik": "E484" },
 		{ "nama": "Bener", "kode_unik": "E340" },
 		{ "nama": "Bukur", "kode_unik": "E341" },
 		{ "nama": "Kaligesing", "kode_unik": "E342" },
