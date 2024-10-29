@@ -105,6 +105,7 @@
         { "nama": "Sekar", "kode_unik": "O84" },
         { "nama": "Sugihwaras", "kode_unik": "O85" },
         { "nama": "Sumberejo", "kode_unik": "O86" },
+         { "nama": "Sukosewu", "kode_unik": "O666" },
         { "nama": "Tambakrejo", "kode_unik": "O87" },
         { "nama": "Temayang", "kode_unik": "O88" },
         { "nama": "Trucuk", "kode_unik": "O89" },
@@ -243,17 +244,18 @@
         { "nama": "Mojo", "kode_unik": "O198" },
         { "nama": "Ngadiluwih", "kode_unik": "O199" },
         { "nama": "Ngancar", "kode_unik": "O200" },
+        { "nama": "Ngasem", "kode_unik": "O667" }
         { "nama": "Pagu", "kode_unik": "O201" },
         { "nama": "Papar", "kode_unik": "O202" },
         { "nama": "Pare", "kode_unik": "O203" },
         { "nama": "Plemahan", "kode_unik": "O204" },
         { "nama": "Plosoklaten", "kode_unik": "O205" },
+        { "nama": "Puncu", "kode_unik": "O211" },
         { "nama": "Purwoasri", "kode_unik": "O206" },
         { "nama": "Ringinrejo", "kode_unik": "O207" },
         { "nama": "Semen", "kode_unik": "O208" },
         { "nama": "Tarokan", "kode_unik": "O209" },
-        { "nama": "Wates", "kode_unik": "O210" },
-        { "nama": "Puncu", "kode_unik": "O211" }
+        { "nama": "Wates", "kode_unik": "O210" }
       ]
     },
     {
@@ -383,7 +385,7 @@
         { "nama": "Pakisaji", "kode_unik": "O314" },
         { "nama": "Poncokusumo", "kode_unik": "O315" },
         { "nama": "Pujon", "kode_unik": "O316" },
-        { "nama": "Sumbermanjing", "kode_unik": "O317" },
+        { "nama": "Sumbermanjing Wetan", "kode_unik": "O317" },
         { "nama": "Singosari", "kode_unik": "O318" },
         { "nama": "Sumberpucung", "kode_unik": "O319" },
         { "nama": "Tajinan", "kode_unik": "O320" },
@@ -565,6 +567,7 @@
         { "nama": "Dringu", "kode_unik": "O457" },
         { "nama": "Gading", "kode_unik": "O458" },
         { "nama": "Gending", "kode_unik": "O459" },
+        { "nama": "Kraksaan", "kode_unik": "O669" }
         { "nama": "Krejengan", "kode_unik": "O460" },
         { "nama": "Krucil", "kode_unik": "O461" },
         { "nama": "Kuripan", "kode_unik": "O462" },
@@ -632,6 +635,7 @@
       "kecamatan": [
         { "nama": "Asembagus", "kode_unik": "O510" },
         { "nama": "Banyuglugur", "kode_unik": "O511" },
+        { "nama": "Banyuputih", "kode_unik": "O526" },
         { "nama": "Besuki", "kode_unik": "O512" },
         { "nama": "Bungatan", "kode_unik": "O513" },
         { "nama": "Jangkar", "kode_unik": "O514" },
@@ -645,8 +649,7 @@
         { "nama": "Suboh", "kode_unik": "O522" },
         { "nama": "Sumbermalang", "kode_unik": "O523" },
         { "nama": "Arjasa", "kode_unik": "O524" },
-        { "nama": "Jatibanteng", "kode_unik": "O525" },
-        { "nama": "Kendit", "kode_unik": "O526" }
+        { "nama": "Jatibanteng", "kode_unik": "O525" }
       ]
     },
     {
@@ -655,6 +658,7 @@
         { "nama": "Ambunten", "kode_unik": "O527" },
         { "nama": "Arjasa", "kode_unik": "O528" },
         { "nama": "Batang-Batang", "kode_unik": "O529" },
+        { "nama": "Batuan", "kode_unik": "O553" }
         { "nama": "Batu Putih", "kode_unik": "O530" },
         { "nama": "Bluto", "kode_unik": "O531" },
         { "nama": "Dasuk", "kode_unik": "O532" },
@@ -677,8 +681,7 @@
         { "nama": "Rubaru", "kode_unik": "O549" },
         { "nama": "Sapeken", "kode_unik": "O550" },
         { "nama": "Saronggi", "kode_unik": "O551" },
-        { "nama": "Talango", "kode_unik": "O552" },
-        { "nama": "Bluto", "kode_unik": "O553" }
+        { "nama": "Talango", "kode_unik": "O552" }
       ]
     },
     {
@@ -794,6 +797,7 @@
     {
       "nama": "Kota Mojokerto",
       "kecamatan": [
+        { "nama": "Kranggan", "kode_unik": "O672" },
         { "nama": "Magersari", "kode_unik": "O624" },
         { "nama": "Prajurit Kulon", "kode_unik": "O625" }
       ]
