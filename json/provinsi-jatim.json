@@ -244,7 +244,7 @@
         { "nama": "Mojo", "kode_unik": "O198" },
         { "nama": "Ngadiluwih", "kode_unik": "O199" },
         { "nama": "Ngancar", "kode_unik": "O200" },
-        { "nama": "Ngasem", "kode_unik": "O667" }
+        { "nama": "Ngasem", "kode_unik": "O667" },
         { "nama": "Pagu", "kode_unik": "O201" },
         { "nama": "Papar", "kode_unik": "O202" },
         { "nama": "Pare", "kode_unik": "O203" },
@@ -404,6 +404,7 @@
         { "nama": "Dawarblandong", "kode_unik": "O328" },
         { "nama": "Dlanggu", "kode_unik": "O329" },
         { "nama": "Gondang", "kode_unik": "O330" },
+        { "nama": "Gedeg", "kode_unik": "O668" },
         { "nama": "Jatirejo", "kode_unik": "O331" },
         { "nama": "Jetis", "kode_unik": "O332" },
         { "nama": "Kemlagi", "kode_unik": "O333" },
