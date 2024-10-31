@@ -1,0 +1,161 @@
+{
+  "provinsi": "Kalimantan Timur",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Berau",
+      "kecamatan": [
+        { "nama": "Tanjung Redeb", "kode_unik": "T01" },
+        { "nama": "Sambaliung", "kode_unik": "T02" },
+        { "nama": "Gunung Tabur", "kode_unik": "T03" },
+        { "nama": "Segah", "kode_unik": "T04" },
+        { "nama": "Teluk Bayur", "kode_unik": "T05" },
+        { "nama": "Kelay", "kode_unik": "T06" },
+        { "nama": "Maratua", "kode_unik": "T07" },
+        { "nama": "Batu Putih", "kode_unik": "T08" },
+        { "nama": "Biatan", "kode_unik": "T09" },
+        { "nama": "Talisayan", "kode_unik": "T10" },
+        { "nama": "Tabalar", "kode_unik": "T11" },
+        { "nama": "Pulau Derawan", "kode_unik": "T12" },
+        { "nama": "Derawan", "kode_unik": "T13" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kutai Barat",
+      "kecamatan": [
+        { "nama": "Barong Tongkok", "kode_unik": "T14" },
+        { "nama": "Bentian Besar", "kode_unik": "T15" },
+        { "nama": "Bongan", "kode_unik": "T16" },
+        { "nama": "Damai", "kode_unik": "T17" },
+        { "nama": "Jempang", "kode_unik": "T18" },
+        { "nama": "Linggang Bigung", "kode_unik": "T19" },
+        { "nama": "Long Iram", "kode_unik": "T20" },
+        { "nama": "Long Pahangai", "kode_unik": "T21" },
+        { "nama": "Long Apari", "kode_unik": "T22" },
+        { "nama": "Melak", "kode_unik": "T23" },
+        { "nama": "Mook Manaar Bulatn", "kode_unik": "T24" },
+        { "nama": "Muara Lawa", "kode_unik": "T25" },
+        { "nama": "Muara Pahu", "kode_unik": "T26" },
+        { "nama": "Nyuatan", "kode_unik": "T27" },
+        { "nama": "Penyinggahan", "kode_unik": "T28" },
+        { "nama": "Siluq Ngurai", "kode_unik": "T29" },
+        { "nama": "Tering", "kode_unik": "T30" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kutai Kartanegara",
+      "kecamatan": [
+        { "nama": "Tenggarong", "kode_unik": "T31" },
+        { "nama": "Loa Kulu", "kode_unik": "T32" },
+        { "nama": "Loa Janan", "kode_unik": "T33" },
+        { "nama": "Muara Muntai", "kode_unik": "T34" },
+        { "nama": "Muara Wis", "kode_unik": "T35" },
+        { "nama": "Kenohan", "kode_unik": "T36" },
+        { "nama": "Kembang Janggut", "kode_unik": "T37" },
+        { "nama": "Tabang", "kode_unik": "T38" },
+        { "nama": "Kota Bangun", "kode_unik": "T39" },
+        { "nama": "Samboja", "kode_unik": "T40" },
+        { "nama": "Sanga-Sanga", "kode_unik": "T41" },
+        { "nama": "Anggana", "kode_unik": "T42" },
+        { "nama": "Muara Badak", "kode_unik": "T43" },
+        { "nama": "Marang Kayu", "kode_unik": "T44" },
+        { "nama": "Muara Jawa", "kode_unik": "T45" },
+        { "nama": "Tenggarong Seberang", "kode_unik": "T46" },
+        { "nama": "Sebulu", "kode_unik": "T47" },
+        { "nama": "Sangasanga", "kode_unik": "T48" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kutai Timur",
+      "kecamatan": [
+        { "nama": "Sangatta Utara", "kode_unik": "T49" },
+        { "nama": "Sangatta Selatan", "kode_unik": "T50" },
+        { "nama": "Teluk Pandan", "kode_unik": "T51" },
+        { "nama": "Rantau Pulung", "kode_unik": "T52" },
+        { "nama": "Sangkulirang", "kode_unik": "T53" },
+        { "nama": "Bengalon", "kode_unik": "T54" },
+        { "nama": "Kaliorang", "kode_unik": "T55" },
+        { "nama": "Kaubun", "kode_unik": "T56" },
+        { "nama": "Karangan", "kode_unik": "T57" },
+        { "nama": "Muara Bengkal", "kode_unik": "T58" },
+        { "nama": "Muara Ancalong", "kode_unik": "T59" },
+        { "nama": "Busang", "kode_unik": "T60" },
+        { "nama": "Telen", "kode_unik": "T61" },
+        { "nama": "Batu Ampar", "kode_unik": "T62" },
+        { "nama": "Long Mesangat", "kode_unik": "T63" },
+        { "nama": "Sandaran", "kode_unik": "T64" },
+        { "nama": "Kombeng", "kode_unik": "T65" },
+        { "nama": "Muara Wahau", "kode_unik": "T66" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Mahakam Ulu",
+      "kecamatan": [
+        { "nama": "Long Bagun", "kode_unik": "T67" },
+        { "nama": "Long Hubung", "kode_unik": "T68" },
+        { "nama": "Long Pahangai", "kode_unik": "T69" },
+        { "nama": "Long Apari", "kode_unik": "T70" },
+        { "nama": "Laham", "kode_unik": "T71" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Paser",
+      "kecamatan": [
+        { "nama": "Tanah Grogot", "kode_unik": "T72" },
+        { "nama": "Batu Sopang", "kode_unik": "T73" },
+        { "nama": "Muara Samu", "kode_unik": "T74" },
+        { "nama": "Long Ikis", "kode_unik": "T75" },
+        { "nama": "Long Kali", "kode_unik": "T76" },
+        { "nama": "Kuaro", "kode_unik": "T77" },
+        { "nama": "Muara Komam", "kode_unik": "T78" },
+        { "nama": "Pasir Belengkong", "kode_unik": "T79" },
+        { "nama": "Tanjung Harapan", "kode_unik": "T80" },
+        { "nama": "Batu Engau", "kode_unik": "T81" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Penajam Paser Utara",
+      "kecamatan": [
+        { "nama": "Penajam", "kode_unik": "T82" },
+        { "nama": "Waru", "kode_unik": "T83" },
+        { "nama": "Babulu", "kode_unik": "T84" },
+        { "nama": "Sepaku", "kode_unik": "T85" }
+      ]
+    }
+  ],
+  "kota": [
+    {
+      "nama": "Kota Balikpapan",
+      "kecamatan": [
+        { "nama": "Balikpapan Barat", "kode_unik": "T86" },
+        { "nama": "Balikpapan Kota", "kode_unik": "T87" },
+        { "nama": "Balikpapan Selatan", "kode_unik": "T88" },
+        { "nama": "Balikpapan Tengah", "kode_unik": "T89" },
+        { "nama": "Balikpapan Timur", "kode_unik": "T90" },
+        { "nama": "Balikpapan Utara", "kode_unik": "T91" }
+      ]
+    },
+    {
+      "nama": "Kota Bontang",
+      "kecamatan": [
+        { "nama": "Bontang Barat", "kode_unik": "T92" },
+        { "nama": "Bontang Selatan", "kode_unik": "T93" },
+        { "nama": "Bontang Utara", "kode_unik": "T94" }
+      ]
+    },
+    {
+      "nama": "Kota Samarinda",
+      "kecamatan": [
+        { "nama": "Samarinda Ilir", "kode_unik": "T95" },
+        { "nama": "Samarinda Kota", "kode_unik": "T96" },
+        { "nama": "Samarinda Seberang", "kode_unik": "T97" },
+        { "nama": "Samarinda Ulu", "kode_unik": "T98" },
+        { "nama": "Samarinda Utara", "kode_unik": "T99" },
+        { "nama": "Sungai Kunjang", "kode_unik": "T100" },
+        { "nama": "Sungai Pinang", "kode_unik": "T101" },
+        { "nama": "Sambutan", "kode_unik": "T102" },
+        { "nama": "Palaran", "kode_unik": "T103" },
+        { "nama": "Loa Janan Ilir", "kode_unik": "T104" }
+      ]
+    }
+  ]
+}
