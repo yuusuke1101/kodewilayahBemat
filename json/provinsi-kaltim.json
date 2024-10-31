@@ -119,9 +119,9 @@
         { "nama": "Waru", "kode_unik": "T83" },
         { "nama": "Babulu", "kode_unik": "T84" },
         { "nama": "Sepaku", "kode_unik": "T85" }
-      ]
-    }
-  ],
+     ]
+    },
+    {
   "kota": [
     {
       "nama": "Kota Balikpapan",
