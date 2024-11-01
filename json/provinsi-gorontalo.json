@@ -1,0 +1,112 @@
+{
+  "provinsi": "Gorontalo",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Gorontalo",
+      "kecamatan": [
+        { "nama": "Asparaga", "kode_unik": "V01" },
+        { "nama": "Batudaa", "kode_unik": "V02" },
+        { "nama": "Batudaa Pantai", "kode_unik": "V03" },
+        { "nama": "Bilato", "kode_unik": "V04" },
+        { "nama": "Biluhu", "kode_unik": "V05" },
+        { "nama": "Boliyohuto", "kode_unik": "V06" },
+        { "nama": "Bongomeme", "kode_unik": "V07" },
+        { "nama": "Dungaliyo", "kode_unik": "V08" },
+        { "nama": "Limboto", "kode_unik": "V09" },
+        { "nama": "Limboto Barat", "kode_unik": "V10" },
+        { "nama": "Mootilango", "kode_unik": "V11" },
+        { "nama": "Pulubala", "kode_unik": "V12" },
+        { "nama": "Tabongo", "kode_unik": "V13" },
+        { "nama": "Telaga", "kode_unik": "V14" },
+        { "nama": "Telaga Biru", "kode_unik": "V15" },
+        { "nama": "Telaga Jaya", "kode_unik": "V16" },
+        { "nama": "Tibawa", "kode_unik": "V17" },
+        { "nama": "Tilango", "kode_unik": "V18" },
+        { "nama": "Tolangohula", "kode_unik": "V19" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Boalemo",
+      "kecamatan": [
+        { "nama": "Botumoito", "kode_unik": "V20" },
+        { "nama": "Dulupi", "kode_unik": "V21" },
+        { "nama": "Mananggu", "kode_unik": "V22" },
+        { "nama": "Paguyaman", "kode_unik": "V23" },
+        { "nama": "Paguyaman Pantai", "kode_unik": "V24" },
+        { "nama": "Tilamuta", "kode_unik": "V25" },
+        { "nama": "Wonosari", "kode_unik": "V26" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pohuwato",
+      "kecamatan": [
+        { "nama": "Buntulia", "kode_unik": "V27" },
+        { "nama": "Dengilo", "kode_unik": "V28" },
+        { "nama": "Duhiadaa", "kode_unik": "V29" },
+        { "nama": "Lemito", "kode_unik": "V30" },
+        { "nama": "Marisa", "kode_unik": "V31" },
+        { "nama": "Paguat", "kode_unik": "V32" },
+        { "nama": "Patilanggio", "kode_unik": "V33" },
+        { "nama": "Popayato", "kode_unik": "V34" },
+        { "nama": "Popayato Barat", "kode_unik": "V35" },
+        { "nama": "Popayato Timur", "kode_unik": "V36" },
+        { "nama": "Randangan", "kode_unik": "V37" },
+        { "nama": "Taluditi", "kode_unik": "V38" },
+        { "nama": "Wanggarasi", "kode_unik": "V39" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Gorontalo Utara",
+      "kecamatan": [
+        { "nama": "Anggrek", "kode_unik": "V40" },
+        { "nama": "Atinggola", "kode_unik": "V41" },
+        { "nama": "Biau", "kode_unik": "V42" },
+        { "nama": "Gentuma Raya", "kode_unik": "V43" },
+        { "nama": "Kwandang", "kode_unik": "V44" },
+        { "nama": "Monano", "kode_unik": "V45" },
+        { "nama": "Ponelo Kepulauan", "kode_unik": "V46" },
+        { "nama": "Sumalata", "kode_unik": "V47" },
+        { "nama": "Sumalata Timur", "kode_unik": "V48" },
+        { "nama": "Tolinggula", "kode_unik": "V49" },
+        { "nama": "Tomilito", "kode_unik": "V50" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bone Bolango",
+      "kecamatan": [
+        { "nama": "Bone", "kode_unik": "V51" },
+        { "nama": "Bone Pantai", "kode_unik": "V52" },
+        { "nama": "Botupingge", "kode_unik": "V53" },
+        { "nama": "Bulango Selatan", "kode_unik": "V54" },
+        { "nama": "Bulango Timur", "kode_unik": "V55" },
+        { "nama": "Bulango Ulu", "kode_unik": "V56" },
+        { "nama": "Bulango Utara", "kode_unik": "V57" },
+        { "nama": "Bulawa", "kode_unik": "V58" },
+        { "nama": "Kabila", "kode_unik": "V59" },
+        { "nama": "Kabila Bone", "kode_unik": "V60" },
+        { "nama": "Pinogu", "kode_unik": "V61" },
+        { "nama": "Suwawa", "kode_unik": "V62" },
+        { "nama": "Suwawa Selatan", "kode_unik": "V63" },
+        { "nama": "Suwawa Tengah", "kode_unik": "V64" },
+        { "nama": "Suwawa Timur", "kode_unik": "V65" },
+        { "nama": "Suwawa Utara", "kode_unik": "V66" },
+        { "nama": "Tapa", "kode_unik": "V67" },
+        { "nama": "Tilongkabila", "kode_unik": "V68" }
+      ]
+    },
+    {
+      "nama": "Kota Gorontalo",
+      "kecamatan": [
+        { "nama": "Dumbo Raya", "kode_unik": "V69" },
+        { "nama": "Dungingi", "kode_unik": "V70" },
+        { "nama": "Hulonthalangi", "kode_unik": "V71" },
+        { "nama": "Kota Barat", "kode_unik": "V72" },
+        { "nama": "Kota Selatan", "kode_unik": "V73" },
+        { "nama": "Kota Tengah", "kode_unik": "V74" },
+        { "nama": "Kota Timur", "kode_unik": "V75" },
+        { "nama": "Kota Utara", "kode_unik": "V76" },
+        { "nama": "Sipatana", "kode_unik": "V77" }
+      ]
+    }
+  ]
+}
