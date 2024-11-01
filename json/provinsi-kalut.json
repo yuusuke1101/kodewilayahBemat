@@ -1,0 +1,84 @@
+{
+  "provinsi": "Kalimantan Utara",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Bulungan",
+      "kecamatan": [
+        { "nama": "Tanjung Palas", "kode_unik": "U01" },
+        { "nama": "Tanjung Palas Barat", "kode_unik": "U02" },
+        { "nama": "Tanjung Palas Timur", "kode_unik": "U03" },
+        { "nama": "Tanjung Palas Tengah", "kode_unik": "U04" },
+        { "nama": "Tanjung Palas Utara", "kode_unik": "U05" },
+        { "nama": "Tanjung Selor", "kode_unik": "U06" },
+        { "nama": "Sekatak", "kode_unik": "U07" },
+        { "nama": "Peso", "kode_unik": "U08" },
+        { "nama": "Peso Hilir", "kode_unik": "U09" },
+        { "nama": "Bunyu", "kode_unik": "U10" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Malinau",
+      "kecamatan": [
+        { "nama": "Malinau Kota", "kode_unik": "U11" },
+        { "nama": "Malinau Barat", "kode_unik": "U12" },
+        { "nama": "Malinau Utara", "kode_unik": "U13" },
+        { "nama": "Malinau Selatan", "kode_unik": "U14" },
+        { "nama": "Malinau Selatan Hilir", "kode_unik": "U15" },
+        { "nama": "Malinau Selatan Hulu", "kode_unik": "U16" },
+        { "nama": "Mentarang", "kode_unik": "U17" },
+        { "nama": "Mentarang Hulu", "kode_unik": "U18" },
+        { "nama": "Pujungan", "kode_unik": "U19" },
+        { "nama": "Bahau Hulu", "kode_unik": "U20" },
+        { "nama": "Sungai Boh", "kode_unik": "U21" },
+        { "nama": "Kayan Hilir", "kode_unik": "U22" },
+        { "nama": "Kayan Hulu", "kode_unik": "U23" },
+        { "nama": "Kayan Selatan", "kode_unik": "U24" },
+        { "nama": "Sungai Tubu", "kode_unik": "U25" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Nunukan",
+      "kecamatan": [
+        { "nama": "Nunukan", "kode_unik": "U26" },
+        { "nama": "Nunukan Selatan", "kode_unik": "U27" },
+        { "nama": "Sebatik", "kode_unik": "U28" },
+        { "nama": "Sebatik Barat", "kode_unik": "U29" },
+        { "nama": "Sebatik Timur", "kode_unik": "U30" },
+        { "nama": "Sebatik Utara", "kode_unik": "U31" },
+        { "nama": "Sebatik Tengah", "kode_unik": "U32" },
+        { "nama": "Sebuku", "kode_unik": "U33" },
+        { "nama": "Sembakung", "kode_unik": "U34" },
+        { "nama": "Sembakung Atulai", "kode_unik": "U35" },
+        { "nama": "Lumbis", "kode_unik": "U36" },
+        { "nama": "Lumbis Ogong", "kode_unik": "U37" },
+        { "nama": "Lumbis Pansiangan", "kode_unik": "U38" },
+        { "nama": "Lumbis Hulu", "kode_unik": "U39" },
+        { "nama": "Tulin Onsoi", "kode_unik": "U40" },
+        { "nama": "Tulin Onsoi Tengah", "kode_unik": "U41" },
+        { "nama": "Krayan", "kode_unik": "U42" },
+        { "nama": "Krayan Selatan", "kode_unik": "U43" },
+        { "nama": "Krayan Timur", "kode_unik": "U44" },
+        { "nama": "Krayan Barat", "kode_unik": "U45" },
+        { "nama": "Krayan Tengah", "kode_unik": "U46" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tana Tidung",
+      "kecamatan": [
+        { "nama": "Sesayap", "kode_unik": "U47" },
+        { "nama": "Sesayap Hilir", "kode_unik": "U48" },
+        { "nama": "Betayau", "kode_unik": "U49" },
+        { "nama": "Muruk Rian", "kode_unik": "U50" }
+      ]
+    },
+    {
+      "nama": "Kota Tarakan",
+      "kecamatan": [
+        { "nama": "Tarakan Barat", "kode_unik": "U51" },
+        { "nama": "Tarakan Tengah", "kode_unik": "U52" },
+        { "nama": "Tarakan Timur", "kode_unik": "U53" },
+        { "nama": "Tarakan Utara", "kode_unik": "U54" }
+      ]
+    }
+  ]
+}
