@@ -1,0 +1,173 @@
+{
+  "provinsi": "Maluku Utara",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Halmahera Barat",
+      "kecamatan": [
+        { "nama": "Jailolo", "kode_unik": "X01" },
+        { "nama": "Jailolo Selatan", "kode_unik": "X02" },
+        { "nama": "Ibu", "kode_unik": "X03" },
+        { "nama": "Ibu Selatan", "kode_unik": "X04" },
+        { "nama": "Ibu Utara", "kode_unik": "X05" },
+        { "nama": "Sahu", "kode_unik": "X06" },
+        { "nama": "Sahu Timur", "kode_unik": "X07" },
+        { "nama": "Loloda", "kode_unik": "X08" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Halmahera Selatan",
+      "kecamatan": [
+        { "nama": "Bacan", "kode_unik": "X09" },
+        { "nama": "Bacan Barat", "kode_unik": "X10" },
+        { "nama": "Bacan Barat Utara", "kode_unik": "X11" },
+        { "nama": "Bacan Selatan", "kode_unik": "X12" },
+        { "nama": "Bacan Timur", "kode_unik": "X13" },
+        { "nama": "Bacan Timur Selatan", "kode_unik": "X14" },
+        { "nama": "Bacan Timur Tengah", "kode_unik": "X15" },
+        { "nama": "Gane Barat", "kode_unik": "X16" },
+        { "nama": "Gane Barat Selatan", "kode_unik": "X17" },
+        { "nama": "Gane Barat Utara", "kode_unik": "X18" },
+        { "nama": "Gane Timur", "kode_unik": "X19" },
+        { "nama": "Gane Timur Selatan", "kode_unik": "X20" },
+        { "nama": "Gane Timur Tengah", "kode_unik": "X21" },
+        { "nama": "Kasiruta Barat", "kode_unik": "X22" },
+        { "nama": "Kasiruta Timur", "kode_unik": "X23" },
+        { "nama": "Kayoa", "kode_unik": "X24" },
+        { "nama": "Kayoa Barat", "kode_unik": "X25" },
+        { "nama": "Kayoa Selatan", "kode_unik": "X26" },
+        { "nama": "Kayoa Utara", "kode_unik": "X27" },
+        { "nama": "Kepulauan Joronga", "kode_unik": "X28" },
+        { "nama": "Makian", "kode_unik": "X29" },
+        { "nama": "Makian Barat", "kode_unik": "X30" },
+        { "nama": "Mandioli Selatan", "kode_unik": "X31" },
+        { "nama": "Mandioli Utara", "kode_unik": "X32" },
+        { "nama": "Obi", "kode_unik": "X33" },
+        { "nama": "Obi Barat", "kode_unik": "X34" },
+        { "nama": "Obi Selatan", "kode_unik": "X35" },
+        { "nama": "Obi Timur", "kode_unik": "X36" },
+        { "nama": "Obi Utara", "kode_unik": "X37" },
+        { "nama": "Pulau Makian", "kode_unik": "X38" },
+        { "nama": "Pulau Obi", "kode_unik": "X39" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Halmahera Tengah",
+      "kecamatan": [
+        { "nama": "Weda", "kode_unik": "X40" },
+        { "nama": "Weda Selatan", "kode_unik": "X41" },
+        { "nama": "Weda Tengah", "kode_unik": "X42" },
+        { "nama": "Weda Timur", "kode_unik": "X43" },
+        { "nama": "Weda Utara", "kode_unik": "X44" },
+        { "nama": "Patani", "kode_unik": "X45" },
+        { "nama": "Patani Barat", "kode_unik": "X46" },
+        { "nama": "Patani Selatan", "kode_unik": "X47" },
+        { "nama": "Patani Timur", "kode_unik": "X48" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Halmahera Timur",
+      "kecamatan": [
+        { "nama": "Wasile", "kode_unik": "X49" },
+        { "nama": "Wasile Selatan", "kode_unik": "X50" },
+        { "nama": "Wasile Tengah", "kode_unik": "X51" },
+        { "nama": "Wasile Timur", "kode_unik": "X52" },
+        { "nama": "Wasile Utara", "kode_unik": "X53" },
+        { "nama": "Maba", "kode_unik": "X54" },
+        { "nama": "Maba Selatan", "kode_unik": "X55" },
+        { "nama": "Maba Tengah", "kode_unik": "X56" },
+        { "nama": "Maba Timur", "kode_unik": "X57" },
+        { "nama": "Maba Utara", "kode_unik": "X58" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Halmahera Utara",
+      "kecamatan": [
+        { "nama": "Tobelo", "kode_unik": "X59" },
+        { "nama": "Tobelo Barat", "kode_unik": "X60" },
+        { "nama": "Tobelo Selatan", "kode_unik": "X61" },
+        { "nama": "Tobelo Tengah", "kode_unik": "X62" },
+        { "nama": "Tobelo Timur", "kode_unik": "X63" },
+        { "nama": "Tobelo Utara", "kode_unik": "X64" },
+        { "nama": "Galela", "kode_unik": "X65" },
+        { "nama": "Galela Barat", "kode_unik": "X66" },
+        { "nama": "Galela Selatan", "kode_unik": "X67" },
+        { "nama": "Galela Timur", "kode_unik": "X68" },
+        { "nama": "Galela Utara", "kode_unik": "X69" },
+        { "nama": "Loloda Kepulauan", "kode_unik": "X70" },
+        { "nama": "Loloda Utara", "kode_unik": "X71" },
+        { "nama": "Kao", "kode_unik": "X72" },
+        { "nama": "Kao Barat", "kode_unik": "X73" },
+        { "nama": "Kao Teluk", "kode_unik": "X74" },
+        { "nama": "Kao Utara", "kode_unik": "X75" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kepulauan Sula",
+      "kecamatan": [
+        { "nama": "Sanana", "kode_unik": "X76" },
+        { "nama": "Sanana Utara", "kode_unik": "X77" },
+        { "nama": "Mangoli Barat", "kode_unik": "X78" },
+        { "nama": "Mangoli Selatan", "kode_unik": "X79" },
+        { "nama": "Mangoli Tengah", "kode_unik": "X80" },
+        { "nama": "Mangoli Timur", "kode_unik": "X81" },
+        { "nama": "Mangoli Utara", "kode_unik": "X82" },
+        { "nama": "Sulabesi Barat", "kode_unik": "X83" },
+        { "nama": "Sulabesi Selatan", "kode_unik": "X84" },
+        { "nama": "Sulabesi Tengah", "kode_unik": "X85" },
+        { "nama": "Sulabesi Timur", "kode_unik": "X86" },
+        { "nama": "Sulabesi Utara", "kode_unik": "X87" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pulau Morotai",
+      "kecamatan": [
+        { "nama": "Morotai Selatan", "kode_unik": "X88" },
+        { "nama": "Morotai Selatan Barat", "kode_unik": "X89" },
+        { "nama": "Morotai Timur", "kode_unik": "X90" },
+        { "nama": "Morotai Utara", "kode_unik": "X91" },
+        { "nama": "Morotai Jaya", "kode_unik": "X92" },
+        { "nama": "Pulau Rao", "kode_unik": "X93" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pulau Taliabu",
+      "kecamatan": [
+        { "nama": "Taliabu Barat", "kode_unik": "X94" },
+        { "nama": "Taliabu Barat Laut", "kode_unik": "X95" },
+        { "nama": "Taliabu Selatan", "kode_unik": "X96" },
+        { "nama": "Taliabu Timur", "kode_unik": "X97" },
+        { "nama": "Taliabu Timur Selatan", "kode_unik": "X98" },
+        { "nama": "Taliabu Utara", "kode_unik": "X99" },
+        { "nama": "Lede", "kode_unik": "X100" },
+        { "nama": "Tabona", "kode_unik": "X101" }
+      ]
+    },
+    {
+      "nama": "Kota Ternate",
+      "kecamatan": [
+        { "nama": "Ternate Barat", "kode_unik": "X102" },
+        { "nama": "Ternate Selatan", "kode_unik": "X103" },
+        { "nama": "Ternate Tengah", "kode_unik": "X104" },
+        { "nama": "Ternate Timur", "kode_unik": "X105" },
+        { "nama": "Ternate Utara", "kode_unik": "X106" },
+        { "nama": "Pulau Batang Dua", "kode_unik": "X107" },
+        { "nama": "Pulau Hiri", "kode_unik": "X108" },
+        { "nama": "Moti", "kode_unik": "X109" },
+        { "nama": "Ternate Utara", "kode_unik": "X110" },
+        { "nama": "Pulau Ternate", "kode_unik": "X111" }
+      ]
+    },
+    {
+      "nama": "Kota Tidore Kepulauan",
+      "kecamatan": [
+        { "nama": "Tidore", "kode_unik": "X112" },
+        { "nama": "Tidore Selatan", "kode_unik": "X113" },
+        { "nama": "Tidore Timur", "kode_unik": "X114" },
+        { "nama": "Tidore Utara", "kode_unik": "X115" },
+        { "nama": "Oba", "kode_unik": "X116" },
+        { "nama": "Oba Selatan", "kode_unik": "X117" },
+        { "nama": "Oba Tengah", "kode_unik": "X118" }
+      ]
+    }
+  ]
+}
