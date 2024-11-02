@@ -1,0 +1,178 @@
+ {
+  "provinsi": "Maluku",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Buru",
+      "kecamatan": [
+        { "nama": "Namlea", "kode_unik": "W01" },
+        { "nama": "Air Buaya", "kode_unik": "W02" },
+        { "nama": "Batabual", "kode_unik": "W03" },
+        { "nama": "Fena Leisela", "kode_unik": "W04" },
+        { "nama": "Lolong Guba", "kode_unik": "W05" },
+        { "nama": "Teluk Kaiely", "kode_unik": "W06" },
+        { "nama": "Waeapo", "kode_unik": "W07" },
+        { "nama": "Waelata", "kode_unik": "W08" },
+        { "nama": "Waplau", "kode_unik": "W09" },
+        { "nama": "Lilialy", "kode_unik": "W10" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Buru Selatan",
+      "kecamatan": [
+        { "nama": "Ambalau", "kode_unik": "W11" },
+        { "nama": "Fena Fafan", "kode_unik": "W12" },
+        { "nama": "Kepala Madan", "kode_unik": "W13" },
+        { "nama": "Leksula", "kode_unik": "W14" },
+        { "nama": "Namrole", "kode_unik": "W15" },
+        { "nama": "Waesama", "kode_unik": "W16" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kepulauan Aru",
+      "kecamatan": [
+        { "nama": "Aru Selatan", "kode_unik": "W17" },
+        { "nama": "Aru Selatan Timur", "kode_unik": "W18" },
+        { "nama": "Aru Selatan Utara", "kode_unik": "W19" },
+        { "nama": "Aru Tengah", "kode_unik": "W20" },
+        { "nama": "Aru Tengah Selatan", "kode_unik": "W21" },
+        { "nama": "Aru Tengah Timur", "kode_unik": "W22" },
+        { "nama": "Aru Utara", "kode_unik": "W23" },
+        { "nama": "Pulau-Pulau Aru", "kode_unik": "W24" },
+        { "nama": "Sir-Sir", "kode_unik": "W25" },
+        { "nama": "Pulau-pulau Kur", "kode_unik": "W26" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Maluku Barat Daya",
+      "kecamatan": [
+        { "nama": "Dawelor Dawera", "kode_unik": "W27" },
+        { "nama": "Kisar Utara", "kode_unik": "W28" },
+        { "nama": "Mdona Hyera", "kode_unik": "W29" },
+        { "nama": "Moa Lakor", "kode_unik": "W30" },
+        { "nama": "Pulau Lakor", "kode_unik": "W31" },
+        { "nama": "Pulau Leti", "kode_unik": "W32" },
+        { "nama": "Pulau Masela", "kode_unik": "W33" },
+        { "nama": "Pulau Pulau Babar", "kode_unik": "W34" },
+        { "nama": "Pulau Pulau Terselatan", "kode_unik": "W35" },
+        { "nama": "Pulau Wetar", "kode_unik": "W36" },
+        { "nama": "Pulau Wetang", "kode_unik": "W37" },
+        { "nama": "Watuwei", "kode_unik": "W38" },
+        { "nama": "Wetar Barat", "kode_unik": "W39" },
+        { "nama": "Wetar Timur", "kode_unik": "W40" },
+        { "nama": "Wetar Utara", "kode_unik": "W41" },
+        { "nama": "Wuar Labobar", "kode_unik": "W42" },
+        { "nama": "Leti Moa Lakor", "kode_unik": "W43" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Maluku Tengah",
+      "kecamatan": [
+        { "nama": "Amahai", "kode_unik": "W44" },
+        { "nama": "Banda", "kode_unik": "W45" },
+        { "nama": "Leihitu", "kode_unik": "W46" },
+        { "nama": "Leihitu Barat", "kode_unik": "W47" },
+        { "nama": "Masohi", "kode_unik": "W48" },
+        { "nama": "Nusa Laut", "kode_unik": "W49" },
+        { "nama": "Pulau Haruku", "kode_unik": "W50" },
+        { "nama": "Salahutu", "kode_unik": "W51" },
+        { "nama": "Saparua", "kode_unik": "W52" },
+        { "nama": "Saparua Timur", "kode_unik": "W53" },
+        { "nama": "Seram Utara", "kode_unik": "W54" },
+        { "nama": "Seram Utara Barat", "kode_unik": "W55" },
+        { "nama": "Seram Utara Timur Kobi", "kode_unik": "W56" },
+        { "nama": "Seram Utara Timur Seti", "kode_unik": "W57" },
+        { "nama": "Tehoru", "kode_unik": "W58" },
+        { "nama": "Teluk Elpaputih", "kode_unik": "W59" },
+        { "nama": "Telutih", "kode_unik": "W60" },
+        { "nama": "TNS (Teon Nila Serua)", "kode_unik": "W61" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Maluku Tenggara",
+      "kecamatan": [
+        { "nama": "Kei Besar", "kode_unik": "W62" },
+        { "nama": "Kei Besar Selatan", "kode_unik": "W63" },
+        { "nama": "Kei Besar Selatan Barat", "kode_unik": "W64" },
+        { "nama": "Kei Besar Utara Barat", "kode_unik": "W65" },
+        { "nama": "Kei Kecil", "kode_unik": "W66" },
+        { "nama": "Kei Kecil Timur", "kode_unik": "W67" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Maluku Tenggara Barat",
+      "kecamatan": [
+        { "nama": "Kormomolin", "kode_unik": "W68" },
+        { "nama": "Larat", "kode_unik": "W69" },
+        { "nama": "Molu Maru", "kode_unik": "W70" },
+        { "nama": "Nirunmas", "kode_unik": "W71" },
+        { "nama": "Selaru", "kode_unik": "W72" },
+        { "nama": "Tanimbar Selatan", "kode_unik": "W73" },
+        { "nama": "Tanimbar Utara", "kode_unik": "W74" },
+        { "nama": "Wertamrian", "kode_unik": "W75" },
+        { "nama": "Wermaktian", "kode_unik": "W76" },
+        { "nama": "Wuar Labobar", "kode_unik": "W77" },
+        { "nama": "Wuarlabobar", "kode_unik": "W78" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Seram Bagian Barat",
+      "kecamatan": [
+        { "nama": "Amalatu", "kode_unik": "W79" },
+        { "nama": "Elpaputih", "kode_unik": "W80" },
+        { "nama": "Huamual", "kode_unik": "W81" },
+        { "nama": "Huamual Belakang", "kode_unik": "W82" },
+        { "nama": "Inamosol", "kode_unik": "W83" },
+        { "nama": "Kairatu", "kode_unik": "W84" },
+        { "nama": "Kairatu Barat", "kode_unik": "W85" },
+        { "nama": "Taniwel", "kode_unik": "W86" },
+        { "nama": "Taniwel Timur", "kode_unik": "W87" },
+        { "nama": "Waisala", "kode_unik": "W88" },
+        { "nama": "Seram Barat", "kode_unik": "W89" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Seram Bagian Timur",
+      "kecamatan": [
+        { "nama": "Bula", "kode_unik": "W90" },
+        { "nama": "Bula Barat", "kode_unik": "W91" },
+        { "nama": "Gorom Timur", "kode_unik": "W92" },
+        { "nama": "Kian Darat", "kode_unik": "W93" },
+        { "nama": "Pulau Gorom", "kode_unik": "W94" },
+        { "nama": "Seram Timur", "kode_unik": "W95" },
+        { "nama": "Siwalalat", "kode_unik": "W96" },
+        { "nama": "Teluk Waru", "kode_unik": "W97" },
+        { "nama": "Teor", "kode_unik": "W98" },
+        { "nama": "Tutuktolu", "kode_unik": "W99" },
+        { "nama": "Werinama", "kode_unik": "W100" },
+        { "nama": "Wakate", "kode_unik": "W101" },
+        { "nama": "Kilmury", "kode_unik": "W102" },
+        { "nama": "Pulau Panjang", "kode_unik": "W103" },
+        { "nama": "Lian Vitu", "kode_unik": "W104" }
+      ]
+    },
+    {
+      "nama": "Kota Ambon",
+      "kecamatan": [
+        { "nama": "Nusaniwe", "kode_unik": "W105" },
+        { "nama": "Sirimau", "kode_unik": "W106" },
+        { "nama": "Baguala", "kode_unik": "W107" },
+        { "nama": "Teluk Ambon", "kode_unik": "W108" },
+        { "nama": "Leitimur Selatan", "kode_unik": "W109" }
+      ]
+    },
+    {
+      "nama": "Kota Tual",
+      "kecamatan": [
+        { "nama": "Dullah Selatan", "kode_unik": "W110" },
+        { "nama": "Dullah Utara", "kode_unik": "W111" },
+        { "nama": "Kur Selatan", "kode_unik": "W112" },
+        { "nama": "Kur Barat", "kode_unik": "W113" },
+        { "nama": "Tayando Yamtel", "kode_unik": "W114" },
+        { "nama": "Tayando Tam", "kode_unik": "W115" },
+        { "nama": "Pulau-pulau Kur", "kode_unik": "W116" },
+        { "nama": "Pulau-pulau Tayando", "kode_unik": "W117" },
+        { "nama": "Tayando", "kode_unik": "W118" }
+      ]
+    }
+  ]
+}
